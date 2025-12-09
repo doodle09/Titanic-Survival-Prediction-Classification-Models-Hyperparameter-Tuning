@@ -1,0 +1,16 @@
+Hardik Chauhan  
+Week 6 - Data Science Internship Assignment  
+Project: Titanic Machine Learning Model Comparison  
+
+This project focuses on building and comparing classification models to predict Titanic survival.  
+I used Logistic Regression, Random Forest, and Support Vector Machine (SVM).  
+
+Steps included:
+- Data cleaning and preprocessing (missing values, encoding)
+- Standardization of features
+- Training and evaluation of base models
+- Hyperparameter tuning using GridSearchCV (for Random Forest) and RandomizedSearchCV (for SVM)
+- Final comparison based on accuracy and classification report
+- Visualization of model performance using a bar chart
+
+The best performing model based on accuracy was the tuned SVM.
